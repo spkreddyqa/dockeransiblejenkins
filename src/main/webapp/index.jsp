@@ -5,16 +5,17 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
-<div class="w3-container"> 
-  <h2>With a Container</h2>
-  <p>The w3-container class is one of the most important of the w3.CSS classes. It can provide correct margins, padding, alignments, and more to your HTML elements.</p>
-</div>
+<div class="w3-container">
+  <h2>Displaying Panels</h2>
 
-<div> 
-  <h2>Without a Container</h2>
-  <p>The w3-container class is one of the most important of the w3.CSS classes. It can provide correct margins, padding, alignments, and more to your HTML elements.</p>
+  <div class="w3-panel w3-red">
+    <p>London is the capital city of England.</p>
+  </div>
+
+  <div class="w3-panel w3-blue">
+    <p>Tokyo is the capital city of Japan.</p>
+  </div>
 </div>
 
 </body>
 </html>
-
