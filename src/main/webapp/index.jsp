@@ -13,7 +13,7 @@
   </div>
 
   <div class="w3-panel w3-blue">
-    <p>Tokyo is the capital city of Japan.</p>
+    <p>SPKTokyo is the capital city of Japan.</p>
   </div>
 </div>
 
